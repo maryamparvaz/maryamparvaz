@@ -87,12 +87,6 @@
 </p>
 </details>
 <br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maryamparvaz&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](https://github.com/maryamparvaz/maryamparvaz/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
- 
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/maryamparvaz/maryamparvaz/blob/master/github-contribution-grid-snake.svg)
 
@@ -136,49 +130,22 @@
 
 <h1>
   Connect With Me
-  <img src="https://github.com/maryamparvaz/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+  <img src="https://github.com/maryamparvaz/maryamparvaz/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/maryamparvaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/maryam-parvaz/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/maryamparvaz/maryamparvaz/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/maryamparvaz/maryamparvaz/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  <a href="https://www.instagram.com/maryamparvaz_web/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/maryamparvaz/maryamparvaz/blob/master/SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/maryamparvaz/blob/master/SVG/twitter.svg"/></code>
+  </a>  
 </p>
 <br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/lc.webp"/></code>
-  </a>
 </p>
 
 <br/>
@@ -192,9 +159,9 @@
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](https://github.com/maryamparvaz/maryamparvaz/blob/master/WEBP/footer.webp)
 
 -----
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
+**Credits**: [maryamparvaz](https://github.com/maryamparvaz)
 
 **Last Edited on**: 23/06/2022
