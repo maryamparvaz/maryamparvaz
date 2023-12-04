@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </br>
 <h1 align="center">Hi 👋, I'm Maryam Parvaz</h1>
