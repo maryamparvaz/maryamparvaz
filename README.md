@@ -1,6 +1,3 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
@@ -8,8 +5,9 @@
 
 
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
