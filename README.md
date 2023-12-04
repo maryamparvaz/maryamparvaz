@@ -90,7 +90,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maryamparvaz&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/maryamparvaz/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/maryamparvaz/maryamparvaz/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
  
   
