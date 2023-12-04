@@ -43,9 +43,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=maryamparvaz&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/Jmaryamparvaz/JayantGoel001/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://github.com/maryamparvaz/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamparvaz&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/maryamparvaz/JayantGoel001/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://github.com/maryamparvaz/maryamparvaz/blob/master/WEBP/right.webp">
 </p>
 
 #
