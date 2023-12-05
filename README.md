@@ -86,7 +86,7 @@
 
 
 <p align="center">
-    <img align="left" with="300px" src="https://github-readme-stats.vercel.app/api?username=maryamparvaz&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="right" with="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamparvaz&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="left" with="100px" src="https://github-readme-stats.vercel.app/api?username=maryamparvaz&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="right" with="100px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamparvaz&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
