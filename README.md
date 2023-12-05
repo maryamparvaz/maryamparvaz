@@ -25,7 +25,6 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/maryamparvaz" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
   <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/maryamparvaz?label=Followers&style=social"> •
